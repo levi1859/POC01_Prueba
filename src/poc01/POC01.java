@@ -47,13 +47,13 @@ public class POC01 {
             System.out.println("tarjeta " + t.getNumero() + "No existe\n");
         }
         
-        tarjetas.ordenarPorNumeroRut();
-        System.out.println("\nLISTADO DE TARJETAS ORDENADAS POR NUM Y RUT\n");
-        System.out.println(tarjetas.toString());
-        
-        tarjetas.ordenarPorBancoNumeroNombre();
-        System.out.println("\nLISTADO DE TARJETAS ORDENADAS POR BANCO, NUMERO Y NOMBRE DE CLIENTE\n");
-        System.out.println(tarjetas.toString());
+//        tarjetas.ordenarPorNumeroRut();
+//        System.out.println("\nLISTADO DE TARJETAS ORDENADAS POR NUM Y RUT\n");
+//        System.out.println(tarjetas.toString());
+//        
+//        tarjetas.ordenarPorBancoNumeroNombre();
+//        System.out.println("\nLISTADO DE TARJETAS ORDENADAS POR BANCO, NUMERO Y NOMBRE DE CLIENTE\n");
+//        System.out.println(tarjetas.toString());
     }
     
 }

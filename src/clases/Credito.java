@@ -88,6 +88,10 @@ public class Credito extends TarjetaBancaria {
         cupoNacional= Double.parseDouble(datos[5]);
         gastoNacional = Double.parseDouble(datos[6]);
     }
+
+    public Credito(int i, String estado, Cliente c2, String mesterCard, int i0) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
     @Override
     public String toString(){

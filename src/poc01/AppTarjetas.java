@@ -3,6 +3,7 @@
  * and open the template in the editor.
  */
 package poc01;
+import Utiles.Rut;
 import clases.*;
 /**
  *
@@ -23,7 +24,7 @@ public class AppTarjetas {
 //        
 //        c1.setNombre("Juanito");
 //        System.out.println("Cliente 1: "+c1.toString());
-//        
+        
 //        Credito tc= new Credito(1111, "Estado", c2,"MesterCard", 300000);
 //        System.out.println(tc.toString());
 //        if (tc.comprarNacional(120000)){

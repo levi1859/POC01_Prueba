@@ -16,12 +16,12 @@ public class AppTarjetas {
      */
     public static void main(String[] args) {
         
-//        Cliente c1= new Cliente();
-//        Cliente c2= new Cliente(new Rut(12345678), "Pepito");
-//        
-//        System.out.println("Cliente 1: "+c1.toString());
-//        System.out.println("Cliente 2: "+c2.toString());
-//        
+        Cliente c1= new Cliente();
+        Cliente c2= new Cliente(new Rut(12345678), "Pepito");
+        
+        System.out.println("Cliente 1: "+c1.toString());
+        System.out.println("Cliente 2: "+c2.toString());
+        
 //        c1.setNombre("Juanito");
 //        System.out.println("Cliente 1: "+c1.toString());
         
